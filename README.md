@@ -1,6 +1,6 @@
 # Project-1-Data-pipeline-using-GCP
 ## Data pipeline Block diagram
-![Block diagram](https://github.com/Chaland0/Project-1-Data-pipeline-using-GCP/blob/main/Blockdiagram.png)
+![Block diagram](https://github.com/Chaland0/Project-1-Data-pipeline-using-GCP/blob/74a6a756859b6870c2db90c152348bbd575ffc0d/Blockdiagram.png)
 
 ## Project Description
 The Data Analyst has requested a dashboard report that presents three key metrics: Book's Revenue by Country, Revenue of each title book, and Revenue of each Category. The purpose of this dashboard is to provide a comprehensive overview of the financial performance of books based on these different dimensions.
