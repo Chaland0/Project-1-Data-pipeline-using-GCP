@@ -13,7 +13,7 @@ Then, we have create Data Pipeline that can.
 
 ## DAG View:
 ![DAGS](https://github.com/Chaland0/Project-1-Data-pipeline-using-GCP/blob/main/DAGS.png)
-Using **Cloud Composer** to upload pipeline code.
+Using **Cloud Composer** to upload pipeline code and run DAGS as Apache Airflow.
 
 ### First DAG:
 - Collected data (audible_data, audible_transaction) from MySQL database by using `SQLHook` and read by `pandas`
@@ -37,7 +37,7 @@ Using **Cloud Composer** to upload pipeline code.
 - Create View by using SQL for avoid sensitive data and Query only the necessary information
 - Connect Bigquery data set for Data source to **Looker Studio**
 - Create Dashboard report requested by the Data Analyst, as shown in the image below.
-(https://github.com/Chaland0/Project-1-Data-pipeline-using-GCP/blob/main/Dashborrd_Report.png)
+![Dashborrd_Report](https://github.com/Chaland0/Project-1-Data-pipeline-using-GCP/blob/main/Dashborrd_Report.png)
 
 
 
